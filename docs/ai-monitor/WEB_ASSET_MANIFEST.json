@@ -3,8 +3,8 @@
   "app_name": "AI Monitor",
   "support_url": "https://github.com/notracc1210/ai-monitor-public/issues",
   "browser_extension_store_url": "",
-  "browser_extension_install_url": "browser-extension-install.html",
-  "browser_extension_privacy_policy_url": "browser-extension-privacy-policy.html",
+  "browser_extension_install_url": "https://notracc1210.github.io/ai-monitor-public/ai-monitor/browser-extension-install.html",
+  "browser_extension_privacy_policy_url": "https://notracc1210.github.io/ai-monitor-public/ai-monitor/browser-extension-privacy-policy.html",
   "files": [
     "index.html",
     "browser-extension-install.html",
@@ -14,7 +14,7 @@
     "SHA256SUMS.txt"
   ],
   "release_env": {
-    "AI_MONITOR_BROWSER_EXTENSION_INSTALL_URL": "browser-extension-install.html",
-    "AI_MONITOR_BROWSER_EXTENSION_PRIVACY_POLICY_URL": "browser-extension-privacy-policy.html"
+    "AI_MONITOR_BROWSER_EXTENSION_INSTALL_URL": "https://notracc1210.github.io/ai-monitor-public/ai-monitor/browser-extension-install.html",
+    "AI_MONITOR_BROWSER_EXTENSION_PRIVACY_POLICY_URL": "https://notracc1210.github.io/ai-monitor-public/ai-monitor/browser-extension-privacy-policy.html"
   }
 }
